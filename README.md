@@ -18,7 +18,7 @@ This project was made with Java. To compile this project you need to have Java(J
 
 There are a couple ways to compile Java files.
 
-* Compile it using the terminal.
+#### Compile it using the terminal.
 Clone or download the zip file.
 
 Open your terminal and enter the directory `cd MontyHallPuzzle`
@@ -29,7 +29,7 @@ Compile all .java files `javac *.java`
 
 Then run the main file `java main`
 
-* Compile it with your favorite IDE.
+#### Compile it with your favorite IDE.
 You can also use your favorite IDE to compile and run this program. I reccomend using IntelliJ IDEA however, there are
 many other good ones to use. I will not go in depth for each IDE but you should be able to copy the source files into a
 project and run the main method.

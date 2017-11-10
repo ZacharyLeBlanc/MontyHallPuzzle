@@ -33,3 +33,9 @@ Then run the main file `java main`
 You can also use your favorite IDE to compile and run this program. I reccomend using IntelliJ IDEA however, there are
 many other good ones to use. I will not go in depth for each IDE but you should be able to copy the source files into a
 project and run the main method.
+
+## Findings
+This simulation runs the game 1,000,000 times with counting the winning strategy after each game. 
+The results average to the winning strategy being switching 2/3 of the games played while staying has a 1/3 success rate.
+This means that if you are ever playing this game, you should switch after one door has been removed because you will 
+have a 2/3 success rate.

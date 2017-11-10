@@ -15,13 +15,18 @@ selection, or does it not matter?
 
 ### How to use this project
 This project was made with Java. To compile this project you need to have Java(JVM) installed on your computer.
+
 There are a couple ways to compile Java files.
 
 * Compile it using the terminal.
 Clone or download the zip file.
+
 Open your terminal and enter the directory `cd MontyHallPuzzle`
+
 Go into the source files `cd src`
+
 Compile all .java files `javac *.java`
+
 Then run the main file `java main`
 
 * Compile it with your favorite IDE.
